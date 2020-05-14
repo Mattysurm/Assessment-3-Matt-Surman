@@ -160,7 +160,7 @@ Pen Style Tattoo Machine
 
 *The next step I wanted to work on was getting my circuit setup and this ended up being much harder than I had initially thought it would be and ended up being my biggest setback. My idea of using a potentiometer soon became a bit of a nightmare. The first thing I did was recreate the experiement using a potentiometer to turn an LED up and down. This was simple enough as I was simply following the kitronic tutorial but once I had completed this I really had no idea how I was going to include the DC motor that would be used to run the dotworker machine. I tried to research for hours coming up with nothing as nothing online showed a circuit using a DC motor with a potentiometer with a Microbit. I was so lost and confused I decided to email Jayden and ask for some help in regard to the circuit and how to go about things. He soon came back to me explaining that the idea of using a potentiometer for a motor wasn't the brightest as using it will stop turning under a certain voltage. He told me to start some research into PWM and how I could try and achieve this.
 
-![Image](tattoo-pot.png)
+![Image](tattoo-pot.jpg)
 *This was the attempt at making the experiment using the potentiometer and while it worked at adjusting the LED's light levels that was about all it was good for. It was a good way of getting to use the microbit more though so I am thankful for this but it was just a stepping stone for the final product. I began to look more into PWM or pulse-width modulation. From what I found and Jayden explained it was a common way of controlling the speed (or brightness) of devices. For this project it would work much easier than a potentiometer and it would just be a matter of incorporating it.*
 
 *My research brought me to a few instances of microbit code including PWM and allowed me to start building my own. The general idea behind most was that buttons on the Microbit would increase or decrease the speed incrementally so I started to replicate something similar in my own code. Below you'll be able to see what I ended up creating.*
@@ -169,7 +169,7 @@ Pen Style Tattoo Machine
 
 *The code would work in theory and it was time to setup a circuit with the DC motor on the Microbit. This is where I encountered a few more issues. I setup my motor as it was shown in experiment 4 and the motor began to spin. I thought I had success so I downloaded my code and then tried it out. Nothing. The motor just continued to run even with the buttons being pressed. I was lost and kept going over and over re-making the circuit as I just had it. I knew it was something to do with my circuit as the code was perfect and working on the Microbit. Below you can see the circuit I was running over and over again. Note that the wire connected to ground had been unplugged to stop the motor constantly running as it began to get a tad bit annoying after an extended period of time.*
 
-![Image](trouble.jpg)
+![Image](trouble.JPG)
 
 *After playing around with the circuit more and more. I chose to reach out to Jayden once more and see if he had any idea where I was going wrong. Luckily, he was quick to respond in pointing out what I had been missing in my hours of staring at the same circuit. The leg of the resistor needed to be in the same column (the numbered lines) and not in the same row (the lettered lines). Secondly, the the transistor was wired up incorrectly. So the motor was running but it wasn't connected to the microbit and running the code it was supposed to be running.*
 

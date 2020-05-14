@@ -5,7 +5,7 @@
 <!--- Markdown reference: https://guides.github.com/features/mastering-markdown/ --->
 
 ### Related project 1 ###
-*Geometric Drawing Mahcine*
+Geometric Drawing Mahcine
 
 *https://www.youtube.com/watch?v=xp7MkqE4xIw*
 
@@ -14,7 +14,7 @@
 *This project is related to mine because it shows off the basic idea of a drawing machine. The project uses similar technology to what I am planning on using for my final piece with the cogs playing a major roll in how the machine runs. This very basic and easy to build geometric drawing machine works by having two arms connected to the turning cogs moving the pen in a circular motion in doing so creating mesmerizing geometric patterns. Looking into machines like this it allowed for me to find a basic level of the technology required in order to create a project like this. With my machine however, I will have to model it more after a legitimate tattoo machine rather than a drawing machine like this. The concept as well as the technology sometimes crosses over between the two allowing me to use aspects of both.*
 
 ### Related project 2 ###
-*Vibration Motor Drawing Machine*
+Vibration Motor Drawing Machine
 
 *https://www.youtube.com/watch?v=xp7MkqE4xIw*
 
@@ -23,7 +23,7 @@
 *This machine is a DIY drawing machine that utilises a vibration motor, battery pack and pens. The machine is designed with the pens arranged together facing outwards and the motor in the middle between them all. As the motor runs the pens are shaken and moved around causing patterns and lines to be drawn on whatever surface the machine is placed on. Again, this is a very simple drawing machine but the technology used is similar to that I plan on using in my own project. By seeing how the motor could be used to move the pens in this manner, it made me think whether I could design something similar to this with the pen being driven up and down casuing the dotted effect rather than having the pens move side to side creating lines. By designing the project to be similar to this one in would eliminate the need for a cog and cam shaft driving the pen up and down but in doing so would make the project more simple and basic. Maybe there is a happy medium between the two ideas that I can begin to look into such as purchasing and testing out one of these vibration motors and testing with and without the cam shaft. Making this project I want to design it as similar to a tattoo machine as possible. In doing so not only can it be used as a drawing machine but could also be refined and produced as a machine for an apprentice to use to produce work with as practice for tattooing. I feel that the vibration motor would come in handy when trying to create a machine similar to a regular rotary tattoo machine.*
 
 ### Related project 3 ###
-*Drill Drawing Machine *
+Drill Drawing Machine 
 
 *https://kash1985.wordpress.com/2008/10/16/rough-drawing-machine-ideas/*
 
@@ -32,7 +32,7 @@
 *When researching different drawing machines I came across this piece which at frist was simply included because I found it quite funny and while yes it was a drawing machine it seemed like quite a joke however, the more I began to think about it the technology could actuallly be used in one way or another. The basic idea behind the piece is that a ball with pens, pencils or ink is connected to a drill and when the drill is turned on and put against a canvas the drill moves the ball creating different outcomes of lines and in term creating "art". In all honesty, the idea is pretty cool and something I had never really thought about using but the idea would work quite well if you were completing work on a larger scale and needing an automated way of doing so. If there was a way to utilise the technology of a drill to drive a pen in a back and fourth motion I could consider using this in my project however, the issues I would have in doing so would be the sheer size and power of the drill. I think that this would end up becomming a big issue for me in the future. The idea is still something I find intersting and would like to play with more in future I just think the power and size would take away from the project.*
 
 ### Related project 4 ###
-*Simple Tatttoo Machine *
+Simple Tatttoo Machine
 
 *https://www.instagram.com/p/B-cgX_soyzV/*
 
@@ -42,16 +42,16 @@
 
 
 ### Related project 5 ###
-*Dotworker *
+Dotworker
 
-*https://www.instagram.com/p/B-uWJMbC-t-/*
+https://www.instagram.com/p/B-uWJMbC-t-/
 
 ![Image](dotworker.png)
 
 *This project is by far both my favourite and the most useful for me when designing the project. Here you can pretty much see exaclty what I am aiming to build. The project shows off this idea I've been toying with perfectly, a machine that can be used for creating dotwork projects similar to producing a tattoo. The technology used is pretty much the same as what I am trying to achieve (Although mine is much less professional). I just found this project to be everything I wanted to produce and it gave me a very well thought out, clean version of the conceptual idea I had been playing with ove the past few weeks. Surprisingly, this is the only fully developed project I found that was pretty much exactly what I was wanting to produce. In seeing this I have realsied this is a very niche market for the project I am wanting to produce, this has both good and bad qualities to it. On the plus side if the product were to go to market there would be no real competition. Then on the downside there is no telling how big or small the market for such a product is.*
 
 ### Related project 6 ###
-*Pen Style Tattoo Machine *
+Pen Style Tattoo Machine
 
 *https://www.youtube.com/watch?v=H3Q8sdJDMog*
 
@@ -169,7 +169,7 @@
 
 *The code would work in theory and it was time to setup a circuit with the DC motor on the Microbit. This is where I encountered a few more issues. I setup my motor as it was shown in experiment 4 and the motor began to spin. I thought I had success so I downloaded my code and then tried it out. Nothing. The motor just continued to run even with the buttons being pressed. I was lost and kept going over and over re-making the circuit as I just had it. I knew it was something to do with my circuit as the code was perfect and working on the Microbit. Below you can see the circuit I was running over and over again. Note that the wire connected to ground had been unplugged to stop the motor constantly running as it began to get a tad bit annoying after an extended period of time.*
 
-![Image](trouble.JPG)
+![Image](trouble.jpg)
 
 *After playing around with the circuit more and more. I chose to reach out to Jayden once more and see if he had any idea where I was going wrong. Luckily, he was quick to respond in pointing out what I had been missing in my hours of staring at the same circuit. The leg of the resistor needed to be in the same column (the numbered lines) and not in the same row (the lettered lines). Secondly, the the transistor was wired up incorrectly. So the motor was running but it wasn't connected to the microbit and running the code it was supposed to be running.*
 

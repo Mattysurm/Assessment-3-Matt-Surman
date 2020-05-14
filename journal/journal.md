@@ -120,22 +120,22 @@
 
 ### Final design concept ###
 ### Final design concept ###
-* A drawing tool emulating a tattoo machine using pens/pencils instead of needles and ink, to produce stippled work in a much easier way. *
-What problem do you want to solve?
+* A drawing tool emulating a tattoo machine using pens/pencils instead of needles and ink, to produce stippled work in a much easier way.*
+*What problem do you want to solve?*
 
-The problem I aim to solve with this drawing machine is the sheer time it takes to complete a piece of artwork by stippling or using dot work. Stippling is very much like traditional tattoo methods such as Tebori, where the artist will need to dot each piece by hand. Similar to how a tattoo machine made this easier for artists to tattoo, I would like to make a mchine for dotwork artists to not have to produce every dot by hand individually and speed up the process.
+*The problem I aim to solve with this drawing machine is the sheer time it takes to complete a piece of artwork by stippling or using dot work. Stippling is very much like traditional tattoo methods such as Tebori, where the artist will need to dot each piece by hand. Similar to how a tattoo machine made this easier for artists to tattoo, I would like to make a mchine for dotwork artists to not have to produce every dot by hand individually and speed up the process.*
 
-What relation do you want to form or change? What experience do you want to create?
+*What relation do you want to form or change? What experience do you want to create?*
 
-The expierence I want to create is a feeling of joy for artists I know that if a machine like this already existed I would use it every day, there is something so time consuming about producing stippled work that will often stop me from finishing pieces.
+*The expierence I want to create is a feeling of joy for artists I know that if a machine like this already existed I would use it every day, there is something so time consuming about producing stippled work that will often stop me from finishing pieces.*
 
-What kinds of people will be involved in this scenario? What non-human actors/participants? What is the future scenario you imagine?
+*What kinds of people will be involved in this scenario? What non-human actors/participants? What is the future scenario you imagine?*
 
-Artists would be the main target audience, the scenario I imagine is that this machine could be something for artists to use at their own will for speeding up the process of their art.
+*Artists would be the main target audience, the scenario I imagine is that this machine could be something for artists to use at their own will for speeding up the process of their art.*
 
-What are the start and endpoints of your path?
+*What are the start and endpoints of your path?*
 
-The start point of this project is the design ideation and sketching. From here it is a matter of testing and prototyping the idea and coming to a final usable result by the endpoint*
+*The start point of this project is the design ideation and sketching. From here it is a matter of testing and prototyping the idea and coming to a final usable result by the endpoint*
 
 ![Image](sketch3.jpg)
 
@@ -169,7 +169,7 @@ The start point of this project is the design ideation and sketching. From here 
 
 *The code would work in theory and it was time to setup a circuit with the DC motor on the Microbit. This is where I encountered a few more issues. I setup my motor as it was shown in experiment 4 and the motor began to spin. I thought I had success so I downloaded my code and then tried it out. Nothing. The motor just continued to run even with the buttons being pressed. I was lost and kept going over and over re-making the circuit as I just had it. I knew it was something to do with my circuit as the code was perfect and working on the Microbit. Below you can see the circuit I was running over and over again. Note that the wire connected to ground had been unplugged to stop the motor constantly running as it began to get a tad bit annoying after an extended period of time.*
 
-![Image](trouble.jpg)
+![Image](trouble.JPG)
 
 *After playing around with the circuit more and more. I chose to reach out to Jayden once more and see if he had any idea where I was going wrong. Luckily, he was quick to respond in pointing out what I had been missing in my hours of staring at the same circuit. The leg of the resistor needed to be in the same column (the numbered lines) and not in the same row (the lettered lines). Secondly, the the transistor was wired up incorrectly. So the motor was running but it wasn't connected to the microbit and running the code it was supposed to be running.*
 
@@ -177,7 +177,7 @@ The start point of this project is the design ideation and sketching. From here 
 
 *Once this had been mofified the circuit began to run according to plan and the microbit's A and B buttons could be used to adjust the speed in which the motor was running. This was hoestly, one of the happiest moments of the week for me I was jsut so happy to see that this project was really starting to come together. Now I would just need to finish off connecting each of the elements the housing unit was made of as well as ensuring that the camshaft was in place and allowed for the machine's motor to drive the pen up and down.*
 
-*![Image](finalbread.jpg)
+*![Image](finalbread.JPG)
 
 
 

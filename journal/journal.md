@@ -188,8 +188,8 @@ Pen Style Tattoo Machine
 ## Design process discussion ##
 *The design process was one of the easier parts of the project as I was modelling the deisgn of something that already existed. As my earlier research showed there is a wide variety of prison style machines out there to chose from and most of these designs were direct influences for my final project.*
 
-![Image](IMG_1933.JPG)
-![Image](sketch3.JPG)
+![Image](IMG_1933.jpg)
+![Image](sketch3.jpg)
 
 *These inital sketches showed off exactly what I wanted for the deisgn and this was still at a stage when we had access to the 3D printer and laser cutter so I was expecting to use these to print and deisgn parts for the project however, that soon became something that couldn't be used sadly. With the uni shut down I looked for parts I could use in a similar vain to keep the project together and what I came to was hollowed out pens, PVC pipe and spare metal parts. The project was no longer something pretty, sleek and clean but it was going to work. I glued the DC motor into the largerst piece of PVC pipe that would be the housing unit for both it and the connecting cog and camshaft. This was easy enough and worked fine. The next step was to hollow out a pen for the housing of a smaller more sleek pen that I often use for drawing. This was done with a large saw as well as a lighter and sanding the edges to clean them up. The pen housed the smaller pen perfectly so this was another success for me. Finally I had to melt down one of the PVC pieces of pipe in order for it to connect with the others this was quite the easy task and was done in a similar manner to the pen and the next step would just be combining all the elements together.*
 

@@ -173,7 +173,7 @@ Pen Style Tattoo Machine
 
 *After playing around with the circuit more and more. I chose to reach out to Jayden once more and see if he had any idea where I was going wrong. Luckily, he was quick to respond in pointing out what I had been missing in my hours of staring at the same circuit. The leg of the resistor needed to be in the same column (the numbered lines) and not in the same row (the lettered lines). Secondly, the the transistor was wired up incorrectly. So the motor was running but it wasn't connected to the microbit and running the code it was supposed to be running.*
 
-![Image](solution.jpeg)
+![Image](solution.jpg)
 
 *Once this had been mofified the circuit began to run according to plan and the microbit's A and B buttons could be used to adjust the speed in which the motor was running. This was hoestly, one of the happiest moments of the week for me I was jsut so happy to see that this project was really starting to come together. Now I would just need to finish off connecting each of the elements the housing unit was made of as well as ensuring that the camshaft was in place and allowed for the machine's motor to drive the pen up and down.*
 

@@ -177,7 +177,7 @@ Pen Style Tattoo Machine
 
 *Once this had been mofified the circuit began to run according to plan and the microbit's A and B buttons could be used to adjust the speed in which the motor was running. This was hoestly, one of the happiest moments of the week for me I was jsut so happy to see that this project was really starting to come together. Now I would just need to finish off connecting each of the elements the housing unit was made of as well as ensuring that the camshaft was in place and allowed for the machine's motor to drive the pen up and down.*
 
-*![Image](finalbread.JPG)
+![Image](finalbread.JPG)
 
 
 
@@ -186,8 +186,24 @@ Pen Style Tattoo Machine
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
 ## Design process discussion ##
+*The design process was one of the easier parts of the project as I was modelling the deisgn of something that already existed. As my earlier research showed there is a wide variety of prison style machines out there to chose from and most of these designs were direct influences for my final project.*
 
+![Image](IMG_1933.JPG)
+![Image](sketch3.JPG)
 
+*These inital sketches showed off exactly what I wanted for the deisgn and this was still at a stage when we had access to the 3D printer and laser cutter so I was expecting to use these to print and deisgn parts for the project however, that soon became something that couldn't be used sadly. With the uni shut down I looked for parts I could use in a similar vain to keep the project together and what I came to was hollowed out pens, PVC pipe and spare metal parts. The project was no longer something pretty, sleek and clean but it was going to work. I glued the DC motor into the largerst piece of PVC pipe that would be the housing unit for both it and the connecting cog and camshaft. This was easy enough and worked fine. The next step was to hollow out a pen for the housing of a smaller more sleek pen that I often use for drawing. This was done with a large saw as well as a lighter and sanding the edges to clean them up. The pen housed the smaller pen perfectly so this was another success for me. Finally I had to melt down one of the PVC pieces of pipe in order for it to connect with the others this was quite the easy task and was done in a similar manner to the pen and the next step would just be combining all the elements together.*
+
+![Image](wormdrive.jpg)
+
+![Image](penhouse.jpg)
+
+![Image](housing.jpg)
+
+*From these photos you can begin to see the overall form coming together with each element put together such as the pen housing unit and the overall pipe housing. At this point I know the project isn't too pretty but thats not something I'll be taking into consideration in order to get this project finished. This project is purely for my own use at this point and so functionally is the key element of design in my mind. I don't really care about the fact that the piece looks ghetto and like a prisoner could have built it, it gives character in my eyes. However I did choose to design a final piece on how I would have loved the project to look in illustrator. This final asset shows a clean sleek black silhouette of a body the machine could have had 3D printed. I am actually working on the design for a print in my 3D Modelling course so this is a project I can keep working on as my knowledge grows between courses.*
+
+![Image](design-final.jpg)
+
+*From this design you can see how I would have loved the design to be by the final. Taking a lot of infleuence from the design of a standard tattoo machine, by modelling it as such it would be a comfortable and light machine to be used for long periods of time. But as I said this is still a possibility in the future to produce something much like this. I think the limitation of the Microbit is also a pain in regard to the project. Potentially after the course is over I can build a proper machine for using in my everyday life that doen't require the motor to be wired to the microbit and can use a battery pack.*
 
 
 

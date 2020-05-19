@@ -194,6 +194,9 @@ Pen Style Tattoo Machine
 
 *https://youtu.be/bzGDPijltko*
 *https://youtu.be/E5VI-xNd17I*
+*https://youtu.be/5NTPIyhIyRo*
+*https://youtu.be/FIjzJmXb5Kc*
+
 
 ## Final code ##
 
